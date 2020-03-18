@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kakuto.me</id>
-    <title>Gridea</title>
-    <updated>2020-03-18T13:42:20.388Z</updated>
+    <title>蜂蜜館の地下一階</title>
+    <updated>2020-03-18T19:51:28.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kakuto.me"/>
     <link rel="self" href="https://kakuto.me/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>何でもあり</subtitle>
     <logo>https://kakuto.me/images/avatar.png</logo>
     <icon>https://kakuto.me/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 蜂蜜館の地下一階</rights>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
         <id>https://kakuto.me/post/test/</id>
