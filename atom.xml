@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kakuto.me</id>
     <title>蜂蜜館の地下一階</title>
-    <updated>2020-03-18T21:11:48.481Z</updated>
+    <updated>2020-03-18T21:13:45.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kakuto.me"/>
     <link rel="self" href="https://kakuto.me/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://kakuto.me/favicon.ico</icon>
     <rights>All rights reserved 2020, 蜂蜜館の地下一階</rights>
     <entry>
-        <title type="html"><![CDATA[爵士和声配置——从入门到精通 2]]></title>
+        <title type="html"><![CDATA[爵士和声配置——从入门到精通 （2）]]></title>
         <id>https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-2/</id>
         <link href="https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-2/">
         </link>
