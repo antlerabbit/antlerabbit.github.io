@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kakuto.me</id>
     <title>蜂蜜館の地下一階</title>
-    <updated>2020-03-18T21:24:44.607Z</updated>
+    <updated>2020-03-18T21:52:21.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kakuto.me"/>
     <link rel="self" href="https://kakuto.me/atom.xml"/>
@@ -10,6 +10,337 @@
     <logo>https://kakuto.me/images/avatar.png</logo>
     <icon>https://kakuto.me/favicon.ico</icon>
     <rights>All rights reserved 2020, 蜂蜜館の地下一階</rights>
+    <entry>
+        <title type="html"><![CDATA[爵士和声配置——从入门到精通 （6）]]></title>
+        <id>https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-6/</id>
+        <link href="https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-6/">
+        </link>
+        <updated>2020-03-18T21:49:28.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="chapter-five-on-the-gig实战">Chapter Five: On the gig…（实战）</h1>
+<p>现在你已经成功的浏览了这个小册子。那么在演出的时候，我们要如何运用我们所知道的和弦和Voicing呢？有这么几个选项供您选择，但是我们怎么知道要用哪一个，以及什么时候用呢？想起来感觉有点儿让人退缩。</p>
+<p>不幸的是，并没有什么秘诀——你选择的Voicing应该符合你自己的独特品味，还要能配合你舞台上正在发生的事情。不过，这里有三个判断你是否是个好的“伴奏者/comper”的必要因素：</p>
+<p>他们是：</p>
+<ol>
+<li>一双好的耳朵。这很明显，你需要能够听到并且回应你周围的音乐。锻炼耳朵是一项至关重要的联系，你可以通过聆听（听很多音乐来实现）。聆听尽可能多的爵士音乐家——不一定非得是钢琴（甚至不一定非得是爵士）。录制/抄写/扒伴奏和旋律也是一项重要技能，像听音练耳一样重要——他可以帮助你识别音程，音阶和弦等。</li>
+<li>创造力。不要只是沉溺于简单或者熟悉的和弦Voicing。多多尝试一些新的事物来拓展你的想法。练习每一个新的Voicing直到它对你来说驾轻就熟。在舞台上冒险——通过尝试没有试过的Voicing来激发你自己的演奏灵感，不要担心失败——错误也是爵士过程的一部分。创造力思维是非常重要的，正如本书开头所说，它也是正本书的重点，它鼓励您在和声和Voicing中寻找自己的发现。最好的办法就是mode-mapping(调式映射？)，即完全熟悉调式和音阶，能立刻知道他们所在的位置，并且能够极速地构建起Voicing。钢琴因为非常直观，所以是一种理想的\容易实现的乐器。你要做到随时能够能看到某种音阶的音符都分别在键盘上的什么位置。</li>
+<li>节奏。“如果你get不到swing，你就什么也不是”。即使你的独奏技巧不太好，也一定要有一个好的节奏感，这在现场很有用。节奏是音乐的基础，需要与你的理论知识一起发展。同样的，多听音乐和进行节拍器练习（特别是练习24拍的swing节奏）是非常重要的。把你的演奏录下来，或者用Band-In-A-Box软件的伴奏，它们很适合帮助你练习节奏技巧（最近在苹果电脑上的软件“MyJazzBand”，是一个能够兼容Band-In-A-Box的软件，而且很廉价，效果也不错）。聆听大量的爵士钢琴家的作品，并且注意到他们在他们的和弦中所使用的的节奏。你的目标是内化节奏——让他们从“计数”变成一种“感觉”</li>
+</ol>
+<p>尽管通过上面提到的方法提高了有效的swing编曲/伴奏风格（需要花些时间），但是我们还要花些篇幅来介绍些练习来帮助你拓展有效的编曲/伴奏技能。</p>
+<h2 id="static-comping">Static comping</h2>
+<p>这是一种重复左手，用来创造更为稳定的，有驱动性效果的节奏。这里有一些在布鲁斯中开头几个小节中的例子：</p>
+<p><img src="https://kakuto.me/post-images/1584568253437.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584568262577.png" alt="" loading="lazy"></p>
+<p>这只是一个基础的例子。你应该是这在调子中实验各种节奏的组合，并且用或长或短的音符乐句来交替进行。</p>
+<h2 id="accent-comping">Accent Comping</h2>
+<p>这种风格通过赋予重音（accents）更多的力量来增强旋律或solo独奏。通过聆听大型乐队录音中，某一个乐章，当其他人演奏solo的时候演奏的节奏\打击就能搞定这种风格了。</p>
+<figure data-type="image" tabindex="1"><img src="https://kakuto.me/post-images/1584568274566.png" alt="" loading="lazy"></figure>
+<h2 id="block-style-comping">Block Style Comping</h2>
+<p>Block Chord approach（块状和弦经过）在本书中没有被提到过，但是这是一种非常有用且和有效的演奏方式。我们鼓励读者可以通过阅读Mark Levine的《The Jazz Piano Book》以彻底了解这种风格。但是，在直接的编曲/伴奏编配中，块状和弦更像是一种可以和其他编曲样式组合，形成起来不错的效果的和弦样式。他可以给旋律或者solo增加许多力量\功能。Bill Evans经常使用这种左手Voicing来突出乐句。请注意，他听起来非常Derivative（衍生的，也可以理解为微妙），而且很容易让左手的力量盖过右手。让我们慢慢练习这种风格，以达到一种好的平衡。</p>
+<figure data-type="image" tabindex="2"><img src="https://kakuto.me/post-images/1584568287788.png" alt="" loading="lazy"></figure>
+<h2 id="pad-comping">Pad Comping</h2>
+<p>基本上这种伴奏形式就是维持\延长每一个和弦到下一个和弦，以创造出一种平滑放松的感觉。他在叙事曲风格中特别有效，也可以和我们提到过的其他风格结合起来使用</p>
+<figure data-type="image" tabindex="3"><img src="https://kakuto.me/post-images/1584568301032.png" alt="" loading="lazy"></figure>
+<p>当进行编曲的时候有很多需要注意的地方，尤其是你要在谁或者什么的后边做变奏。举个栗子，给一个歌手做伴奏和给一个小号手做伴奏是有很大区别的。我们甚至还有没有谈论到拉丁或者funk风格。</p>
+<p>再一次，尽你可能的聆听吧</p>
+<h1 id="总结">总结</h1>
+<p>希望这本书达到了他的预期——为你提供一些在爵士钢琴Voicing方面的工具和引导，并且可以激发您探索自己Voicing和和声的兴趣。毕竟，这就是即兴中最美的事情之一，也是一种在爵士中创造属于自己“声音”的方式。接下来我们还会列出一些优秀的爵士钢琴出版物，希望它们可以帮助到您</p>
+<p>最后祝您能享受音乐的快乐</p>
+<h1 id="bibliography参考书目">Bibliography（参考书目）</h1>
+<ul>
+<li>‘The Jazz Piano Book’, Mark Levine, Sher Music ISBN 0-9610741-5-1</li>
+<li>‘Elements Of Jazz’, Leigh Jackson</li>
+<li>‘Jazz Improvisation Vol IV, Contemporary Piano Styles’, John Mehegan,<br>
+Watson-Guptill Publications ISBN 0-8230-2574-8</li>
+<li>‘Chording Techniques For Jazz Piano’, James T. Whitley, Studio P/R, Inc.</li>
+<li>‘Mastering Quartal Harmony And Voicings’, Andy LaVerne, ‘Keyboard’<br>
+Magazine, May 1997</li>
+<li>‘Master Class’, Andy LaVerne, ‘Keyboard’ Magazine, December 1997</li>
+<li>Quartal Piano Voicings (PDF)<br>
+http://cla.calpoly.edu/~prinzler/sitefiles/instructional materials.html</li>
+<li>‘Left Hand Comping’, Per Danielsson,<br>
+http://www.melbay.com/creativekeyboard/apr04/comping.html<br>
+• ‘The Real Book - Sixth Edition’, Hal Leonard Corporation ISBN 0-634-06038-4</li>
+</ul>
+<h1 id="附录1-four-note-minor-ii-v-i-voicing四音符小调251的voicing">附录1 Four-note Minor II-V-I Voicing（四音符小调251的Voicing）</h1>
+<p><img src="https://kakuto.me/post-images/1584568315631.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584568327081.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爵士和声配置——从入门到精通 （5）]]></title>
+        <id>https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-5/</id>
+        <link href="https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-5/">
+        </link>
+        <updated>2020-03-18T21:46:38.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="chapter-four-cluster-chords集群簇和弦和弦群">Chapter Four: Cluster Chords（集群/簇和弦/和弦群）</h1>
+<p>【译注：关于Cluster Chord的解释，可以戳这个<a href="https://www.reddit.com/r/musictheory/comments/5a9y0y/modal_fragment/">连接</a> ←英文注意】</p>
+<p>利用小二度的间隔，三个音符的和弦也可以创造出很棒的和声和色彩，这种方法叫做Modal fragments。当他们和其他的左手Voicing组合会有很好的效果，让我们来看看吧。</p>
+<p>基本上和弦是由一个小二度加上一个顶部的大三度组成的。首先要做的就是，要先找到在我们各种各样的音阶中自然的小二度间隔。看图49，我们可以看到在dorian小调中有两个这样的间隔（小二度），这就给我们提供了两个有用的小调和弦Voicing，第一个突出的是9度（和一个小三度）然后第二个（作为一个更加模糊朦胧的小调和弦）突出的是自然6度（b13）。</p>
+<figure data-type="image" tabindex="1"><img src="https://kakuto.me/post-images/1584568028289.png" alt="" loading="lazy"></figure>
+<p>我们也可以再混合利底亚或者艾欧尼亚调式中做同样的操作，但是在这个例子中，因为我们4音是禁止音，所以我们只有一个和弦可用的。</p>
+<figure data-type="image" tabindex="2"><img src="https://kakuto.me/post-images/1584568048170.png" alt="" loading="lazy"></figure>
+<p>但是，使用利底亚音阶的话，就给了我们另一个大七和弦的可能性（图51a）。对于小调和声/音阶，把我们发现的第一个小调和弦（图49 - C minor），用在C旋律小调中，在这个例子中就成了Am7b5和B7alt（以及Dsusb9，Ebmaj7#5和F7#11）。换句话说，演奏“亲”旋律小调音阶的第二第三和第五个音。（译注：这里没太搞懂，我在想一下怎么翻译更准确）</p>
+<figure data-type="image" tabindex="3"><img src="https://kakuto.me/post-images/1584568065969.png" alt="" loading="lazy"></figure>
+<p>由于减音阶是每间隔小三度就重复，所以它为我们提供了一些选项：在图52有一个C半 - 全减音阶，以及它的和弦。请注意，这些和弦由小二度和小三度组成。</p>
+<figure data-type="image" tabindex="4"><img src="https://kakuto.me/post-images/1584568082059.png" alt="" loading="lazy"></figure>
+<h3 id="practice练习">Practice（练习）</h3>
+<p>像之前的Voicing一样，在251中实践是最好的起步方法，然后再在不同的调子中熟悉他们。图53a显示了大调251的一种组合方式，图53b则是小调进行的一个例子。这些Voicing应该在左手和右手上都熟悉它们。</p>
+<figure data-type="image" tabindex="5"><img src="https://kakuto.me/post-images/1584568098922.png" alt="" loading="lazy"></figure>
+<p>作为总结，这里有一个表，显示了常用的cluster chord以及他们的音阶度数：</p>
+<table>
+<thead>
+<tr>
+<th>Chord</th>
+<th>Mode</th>
+<th>Combination</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Minor</td>
+<td>Dorian (or min-maj)</td>
+<td>2-3-5 (6-7-2)</td>
+</tr>
+<tr>
+<td>Dominant</td>
+<td>Mixolydian</td>
+<td>6-7-2</td>
+</tr>
+<tr>
+<td>Dominant b9</td>
+<td>½ - w diminished</td>
+<td>1-2-4, 3-4-5, 5-6-8 etc</td>
+</tr>
+<tr>
+<td>Major</td>
+<td>Ionian</td>
+<td>7-1-3</td>
+</tr>
+<tr>
+<td></td>
+<td>Lydian</td>
+<td>4-5-7</td>
+</tr>
+<tr>
+<td>Minor 7b5</td>
+<td>Locrian or Locrian #9</td>
+<td>4-5-7</td>
+</tr>
+<tr>
+<td>Dominant #5, #9</td>
+<td>Altered</td>
+<td>3-4-6</td>
+</tr>
+</tbody>
+</table>
+<p>这里有一个应用的Cluster Chord的“What Is This Thing Called Love?”的改编版的和弦编配。</p>
+<figure data-type="image" tabindex="6"><img src="https://kakuto.me/post-images/1584568113384.png" alt="" loading="lazy"></figure>
+<p>最后，正如本章开头所提到的，cluster chord可以很好的和其他Voicing像连接。事实上，cluster chord和一个简单的三和弦组合可以产生一个听起来很棒的和弦。以下是一些入门参考，用不同的三和弦进行实验并看看实际效果吧。</p>
+<figure data-type="image" tabindex="7"><img src="https://kakuto.me/post-images/1584568125627.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爵士和声配置——从入门到精通 （4）]]></title>
+        <id>https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-4/</id>
+        <link href="https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-4/">
+        </link>
+        <updated>2020-03-18T21:36:07.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="chapter-3quartal-voicings四度voicing">Chapter 3:Quartal Voicings（四度Voicing）</h1>
+<p>爵士乐的大部分都是三度和弦，直到1950到60年代出现了新的形式：基于一个四级间隔的四度和声。相比起三度和声的精确性和刚性，四和弦听起来更加模棱两可。但是，因为一个四度Voicing可以被当做许多和弦，所以它既经济又实用。一个由C,F和Bb组成的Voicing（图38，左手，第一拍）可以有很多种理解方法。例如，它可以是C7，C7sus4，F7sus4，Fm11，Bb，Bbm，Bb7，Bb，Eb7，Ebm, Gbma7b5, Db, D7#9b13, E7#5b9, Gm11, Ab or Am7b5。</p>
+<p>四度和声另一个吸引人的地方在于他可以只需要一个和弦就可以在一个mode（调式？）里自由移动，并且听起来十分合适。他也可以通过离调，作为一种平行结构来充当已有旋律的和声。所有的这些和声都带有一种开放，宽敞，灵活，而且富有色彩。</p>
+<p>四度Voicing由四度间隔构成（纯四度或者增四度）。图38的任何Voicing都可以当做Cm7（或任何来自Bb大调的和弦：比如D弗吉利亚，Ebma7#11, F7, Gm7 or Am7b5）。练习它们的时候，首先只演奏左手部分，然后加上右手Voicing的底部音符，然后是中间音符，最后再弹完整的六个音符。然后再拓展到全部的12个调子上。</p>
+<figure data-type="image" tabindex="1"><img src="https://kakuto.me/post-images/1584567478411.png" alt="" loading="lazy"></figure>
+<p>在六十年代早期，John Coltrane和他的钢琴手McCoy Tyner第一次演奏了四度和弦，以及右手的五声调式线条——这是这种爵士钢琴风格的明显补充和特征。Chick Corea也是这种这种风格的著名人物，他轻量化了织体并且添加了他自己独特的创造力。从那以后，一大批钢琴家从这些大师那里得到了启示。现在我们给一些应用实例：</p>
+<p>图39a显示了251进行的一种四度Voicing实现方式。图39b展示了当在四度Voicing上演奏一个旋律音符的时候，顶部音符间隔可以不必也是四度。最后图39c显示了一个四度的Voicing甚至可以放在三度和弦之上，来组成一个属七和弦。</p>
+<figure data-type="image" tabindex="2"><img src="https://kakuto.me/post-images/1584567493524.png" alt="" loading="lazy"></figure>
+<p>不要因为图39a的左手太简单而忽略他们——许多时候根音和五度可能是对右手的Voicing或者即兴线条的最佳补充。</p>
+<p>请记住音乐只分两种——好的和坏的。如果一种简单的和弦架构能够突出你想要表达的东西的话，那就不要顾忌地使用它们吧。两位著名的钢琴家Keith Jarrett和Michel Camilo就是这么做的。和我们在这里所介绍的许多想法一样，不要害怕尝试。这样您才可以找到您自己喜欢的东西并且把他们变成自己的——这样您才能逐渐建立起自己的风格，这在任何音乐风格中都是至关重要的。</p>
+<p>总之，有许多方法可以在251进行中引入四度Voicing，现在就让我们来试试吧。</p>
+<p>你应该已经在第二章（参看图27,16页）见到过一些类似的方法。图40a展示了基础的双手251进行，图40b则着重了一个轻微的变化。你可能注意到虽然251可以完全通过四度来Voicing，但是在图40a的那个很棒的G13和弦，它底部音符是一个B7，而顶部是根音，所以很容易被记住。这个和弦因为能产生一个强力的7th和弦声音非常有用，并且在组合/连续演奏（playing in a combo）的时候非常容易“导入/切入（cuts through）”</p>
+<p>尝试在布鲁斯上演奏这些Voicing</p>
+<figure data-type="image" tabindex="3"><img src="https://kakuto.me/post-images/1584567507816.png" alt="" loading="lazy"></figure>
+<p>一些更进一步的变化</p>
+<figure data-type="image" tabindex="4"><img src="https://kakuto.me/post-images/1584567523090.png" alt="" loading="lazy"></figure>
+<p>小调251也可以使用四度和声</p>
+<figure data-type="image" tabindex="5"><img src="https://kakuto.me/post-images/1584567537219.png" alt="" loading="lazy"></figure>
+<p>无需赘言，上面的那些和弦还是按照四度圈练熟。然后右手的Voicing也可以作为左手和弦。但是，不要止步于此。四度和声需要多多实验不同的组合，然后发现更多可能的组合。</p>
+<p>为了真正的熟悉四度和声，可以把每一个大调调式进行四等分。图43中展示了C调每个调式的前几个和弦。在Locrian调式上（最后一小节）有一个有趣的音符，McCoy Tyner经常用它替代同样根音的属和弦。</p>
+<figure data-type="image" tabindex="6"><img src="https://kakuto.me/post-images/1584567559348.png" alt="" loading="lazy"></figure>
+<p>这只是在大调音阶上。你也可以在旋律小调上试试</p>
+<p>显然您不会使用所有的这些Voicing，但是这对于加强了解四度和声，以及熟悉他们的听感，是一种非常好的练习（也是一种练习调式的新方法/也是一种新的练习模式）。作为参考，我们以表格形式列出了一些常见的架构：</p>
+<table>
+<thead>
+<tr>
+<th>Minor Voicings</th>
+<th>Dominant Voicings</th>
+<th>Major Voicings</th>
+<th>Dom sus4 Voicings</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1 11 b7 (m11)</td>
+<td>9 5 1 (9th)</td>
+<td>9 5 1 (ma9)</td>
+<td>1 11 b7</td>
+</tr>
+<tr>
+<td>9 5 1 (m9)</td>
+<td>3 6 9 (13th)</td>
+<td>3 6 9 (ma6/9)</td>
+<td>5 8 11</td>
+</tr>
+<tr>
+<td>11 b7 b3 (m11)</td>
+<td>6 9 5 (13th)</td>
+<td>6 9 5 (ma6/9)</td>
+<td></td>
+</tr>
+<tr>
+<td>5 8 11 (m11)</td>
+<td>b7 3 6 (13th)</td>
+<td>7 3 6 (ma13)</td>
+<td></td>
+</tr>
+<tr>
+<td>6 9 5 (m13)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>b3 6 9 (m6/9)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>你可以把它们组合成各种251的排列——左手与右手尝试不同的四度和弦，当然也要试试左手用三和弦与四度和弦进行组合（不过请注意重叠/重复/double音符）</p>
+<p>简单说一下最后一列——它们主要是属sus4和弦的四度Voicing，这些通常是好用的组合了，甚至当solo的时候可以用作左手的Voicing。</p>
+<p>当然，如果不提四度和声下的五声音阶的话，那么关于四度和声的讨论就是不完整的。虽然五声音阶的领域和功能不在本书的主题之中，但是这里还是简单说一些内容，它可以激发你想要练习这些组合的欲望。</p>
+<p>图44展示的是Bb调251进行中一个简单的251乐句。</p>
+<figure data-type="image" tabindex="7"><img src="https://kakuto.me/post-images/1584567575415.png" alt="" loading="lazy"></figure>
+<p>图45是一个很好的例子，说明了四度和声和五声音阶是如何有效地在中心调上叠加外部和声/音阶的。侧滑半音或者向上/向下大小三度都是一些常见的手法。</p>
+<figure data-type="image" tabindex="8"><img src="https://kakuto.me/post-images/1584567588659.png" alt="" loading="lazy"></figure>
+<p>要练习五声音阶/四度和声的组合，可以先从小调四度Voicing开始，左手弹（1 11 b7），然后右手演奏相关的大调五声音阶（比如在Cm11的Voicing上，演奏Eb大调五声音阶）。然后在所有的调子上演奏和练习。我们知道这种特殊的Voicing可以对应多种和弦，所以我们也可以在这个Voicing上练习其他的五声音阶。为了简单起见，我们把它限制在常见的五声音阶组合中。换句话说，在Cm11上，演奏Bb，Eb和F的五声音阶——五声音阶通常在小调和弦上演奏（但是他们也适用于常见的属和弦和大和弦）。通过练习各种“手指”组合可以让我们更有效的在四度和声上solo，并且加强你演奏离调的技巧。</p>
+<p>离调的另一个好办法是像图46中所展示的乐句那样，他是四度上方加三和弦建立的，每次提升一个大二度。尝试把他们以琶音的方式放在一个节奏乐句里进行演奏。这是一个非常有用而且与众不同的序列，它几乎可以用在任何地方，而且让人们想起Herbie Hancock。</p>
+<figure data-type="image" tabindex="9"><img src="https://kakuto.me/post-images/1584567640160.png" alt="" loading="lazy"></figure>
+<p>这是一个包含节奏的，为了伴奏而做的简单的Voicing的和弦进行。注意一下在小和弦和属和弦上的变化（从图43的练习中可以看到他的实用性）</p>
+<figure data-type="image" tabindex="10"><img src="https://kakuto.me/post-images/1584567654382.png" alt="" loading="lazy"></figure>
+<p>最后在我们离开堆叠Voicing的本章之前，让我们先看一下下面的例子，它我们展示了很棒的五度堆叠的Voicing。作为“Kenny Barron”和弦被我们所熟知的min11和弦，它可以再min7th和声下非常和谐，尤其是作为最终和弦/终止和弦。他很容易构建和记住，因为他只是左手和右手间隔半音的五度堆叠。</p>
+<p>第二个和弦是一个很适合大七和声的变奏。在所有调上练习它。</p>
+<figure data-type="image" tabindex="11"><img src="https://kakuto.me/post-images/1584567673560.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爵士和声配置——从入门到精通 （3）]]></title>
+        <id>https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-3/</id>
+        <link href="https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-3/">
+        </link>
+        <updated>2020-03-18T21:26:28.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="chapter-2two-handed-voicings双手和弦配置">Chapter 2.Two-Handed Voicings（双手和弦配置）</h1>
+<p>现在我们来谈谈爵士钢琴经常被忽略的一个部分，那就是伴奏（comping）。虽然左手伴奏右手旋律的情况也很多，但是更多的时候你要学会和其他的乐手/歌手配合，或者给他们伴奏。虽然与伴奏技巧相关的内容超出了本书想要讨论的范围。但是作为基础，学习一个音乐内容的最好办法，首先还是还是聆听。</p>
+<p>这里有三个适合学习的唱片，他们分别是Herbie Hancock弹钢琴的Miles Dives的《My Funny Valentine》，McCoy Tyner 弹钢琴的John Coltrane的《A Love Supreme》以及Chick Corea弹钢琴的Stan Getz的《Sweet Rain》，你可以先感受一下。</p>
+<p>在本书中，我们讲教授一些基础的伴奏构成，也就是双手和声配置（two-handed Voicing）</p>
+<p>在一开始，我们先把我们标准的251和弦配置分配到双手上。这是通过从底部的第二个音符并把它提高八度来构成的，这让我们没歌手弹奏两个音符（图16）</p>
+<p>首先，我们先把上一章的四音符和弦分配到双手上，构成新的251进行——我们吧底部第二个音符提高了八度，构成了现在结构，这样一来就变成了我们两个手每个手演奏两个音符了。</p>
+<figure data-type="image" tabindex="1"><img src="https://kakuto.me/post-images/1584566847063.png" alt="" loading="lazy"></figure>
+<p>在这里我们展示了左手配置的两种转位，在每个例子中I级和弦转位为6/9和弦。</p>
+<p>为了能够让你“信手拈来”，请在所有的调上练习图17a和图17b的两种转位。</p>
+<figure data-type="image" tabindex="2"><img src="https://kakuto.me/post-images/1584566866137.png" alt="" loading="lazy"></figure>
+<p>在图18中，我们看到，这种双手双音的配置，可以通过很小的变化就变成小调的251进行。在这里有一个我们将要讲到的双手Voicing，它在min7b5上添加了9音。我们之前说过，9音是在min7b5和弦上的一种常见张力。通过添加这个音，可以让我们听到更有趣的色彩，也能让独奏者感到开心。</p>
+<p>但是你也要做好万全不谈这个音，或者把它放到根音的准备，这些都取决于你的独奏者。</p>
+<figure data-type="image" tabindex="3"><img src="https://kakuto.me/post-images/1584566883366.png" alt="" loading="lazy"></figure>
+<p>在所有大调（251）进行中练习图17的两种转位，在所有调中练习图19。</p>
+<figure data-type="image" tabindex="4"><img src="https://kakuto.me/post-images/1584566906766.png" alt="" loading="lazy"></figure>
+<p>你可能觉得，我们也可以直接把第一章的那些Voicing，让左手弹成和右手一样，这不就构成了一个双手和弦了吗？虽然在一些情况下这么做也是OK的，但是我们还有更多更好的选择，来让我们创造出更多的空间和色彩。</p>
+<p>比如我们可以像图a那样，演奏左手之前的Voicing，然后右手演奏9,11,13；或者像图20b那样，右手演奏根音，5音，9音，和11音。</p>
+<figure data-type="image" tabindex="5"><img src="https://kakuto.me/post-images/1584566920316.png" alt="" loading="lazy"></figure>
+<p>虽然这些voicing是在小调251下演示的（插一句：图20a中，右手的2级和弦和5级和弦小三度平行移动的优点），但是这种方法在大调上也一样好用（要注意避免11th出现在未改变/非alt的属和弦与major和弦上）。此外还要注意的是，图20b中，C7alt的左手在右手演奏的时候省略了降13——有的时候把左手的扩展省略掉，并把他们分配给右手，是一个让声音听起来更加“开放”的好办法。</p>
+<p>你可以在所有的调上尝试各种组合。有一些听起来会比其他的好一点，但这一般取决于你的个人喜好，相信你的耳朵吧。</p>
+<p>你也可以试试右手弹奏和左手一样的高八度的形式。图21a展示了基于F7的大调五声音阶建立起来的八度组合。</p>
+<figure data-type="image" tabindex="6"><img src="https://kakuto.me/post-images/1584566936267.png" alt="" loading="lazy"></figure>
+<p>在曲子中练习这些Voicing，你可以把“All The Things You Are”作为起始练习的曲子。如果你喜欢复杂和弦，你可以像图21b中的min7的Voicing。它正好是一个Cm7上加一个Dm7,，而且它涵盖了整个多利亚音阶。你还可以在这个和弦（基础和弦Voicing）上演奏相差半音的减七和弦（图21c），这可以让你构成一个有趣的属七或者减七和弦。</p>
+<h2 id="so-what-voicings">“So What” voicings</h2>
+<p>这个和弦Voicing的名称，出自于Bill Evans在Miles Davis的《Kind Of Blue》专辑中的《So What》一曲。让我们看一下图22中的的Dmin和弦：我们可以看到它是由左手的根音和11音，以及右手的7音，3音，5音组成的。换句话说，他是一个Dm11和弦。这种Voicing的美妙之处在于他有一种“开放式”结构——他从根音开始，按照自然音阶进行四度堆叠，只有顶部的音符是一个大三度。这个和弦中的自然四度堆叠部分正是这种和弦的优点/特性，事实上他们无论是在钢琴上，还是用在其他和声中，都非常灵活（关于四度和声/四和弦可以参看第三章）</p>
+<figure data-type="image" tabindex="7"><img src="https://kakuto.me/post-images/1584566952915.png" alt="" loading="lazy"></figure>
+<p>图22还向我们展示了使用这种Voicing的其他重要应用：首先，它还可以作为基于3音的Maj7和弦，而且听起来不错（实际上是一个Maj6/9上加了一个Maj7），其次他还可以被当做一个在Maj7上构建的Maj7#4和弦。</p>
+<h3 id="practice练习">Practice（练习）</h3>
+<p>在我们练习这些和弦的应用之前，我们会先看到一些在接下来的章节（Upper Structures）中谈到的双手属音Voicing。不管怎样，这些So What的Voicing需要我们熟练掌握。首先让我们通过半音阶上行来遍历所有的调，以便让这些Voicing的形状变得熟悉（图23）</p>
+<figure data-type="image" tabindex="8"><img src="https://kakuto.me/post-images/1584566965880.png" alt="" loading="lazy"></figure>
+<p>一旦熟悉了这些，你就可以随意演奏他们了（无需参考上图顺序）。如果这对你来说很容易，那么现在就以每个Dorian的音阶为主音来进行演奏（就像图24中的C dorian）。你会发现，这些和弦是原位min7的不错的替代/变化和弦，尤其是当你在一个调式音乐中连续需要一个调的好几个min7和弦的时候。</p>
+<figure data-type="image" tabindex="9"><img src="https://kakuto.me/post-images/1584566988180.png" alt="" loading="lazy"></figure>
+<p>So What的Voicing有一个重要的优点就是他们可以进行转位（图25），这可以给我们提供更多的色彩和更多的和声/音阶的可能性。</p>
+<figure data-type="image" tabindex="10"><img src="https://kakuto.me/post-images/1584567001344.png" alt="" loading="lazy"></figure>
+<p>注意在第四转位中，3度消失了——这让我们得到了一个完全由四度构成的Voicing</p>
+<p>通过更进一步的观察我们可以发现，在“So What”和弦中所使用的的音符全都是来自小调五声音阶，这意味着这些和弦Voicing可以应用到任何一个小调五声音阶的和弦当中。换句话说，通过“So What”的Dmin和弦作为例子，我们可以发现，这种Voicing不仅可以适用于Dmin，Bbmaj和Ebmaj，它同样还可以适用于Fmaj，G7sus，Amin（Aeolian）和B7alt（最后一个和弦，由于缺少B7alt中的3音，所以听起来会有一点儿不明确/晦涩）</p>
+<p>如果你看到这里，感觉有点儿跟不上的话，不妨先读下一段落（Upper Structures），然后的等你更熟悉双手和弦的时候再看这一节。</p>
+<p>但是，如果你已经很熟悉这些概念的话，就跟着我们继续往下阅读吧。</p>
+<p>某些转位可以让它们的作用更加明显。例如第一转位就是一个很棒的基于根音位的G7sus的配置，所以他也经常被用于Sus4和弦，第二转位也可以作为一个底音为4th，根音在为顶音的，很棒的G7sus和弦。第三与第四转位产生了一个很好的类似Fmaj6和弦，而第四转位也可以作为一个以7th为底音的Bbmaj6和弦</p>
+<p>当然，关于其他旋律与和声都是需要思考的，但是当你在这些Voicing上花精力后，你会发现他们为你的，无论是伴奏还是旋律或者和声都增加了很多色彩。</p>
+<p>按照四度圈的顺序在每一个调上对So What的和弦进行练习。当你练习他们的时候，要对自己说出他们的作用/他们可以作为的和弦（比如Cmin，Ebmaj，Abmaj，Dbmaj，F7sus）。这可以帮助你在不同的持续根音之下，对不同的Voicing所发挥的作用/起到的功能有一个正确认知。</p>
+<p>“So What”和弦还有一个有趣的地方，就是它可以通过改变一个音符来得到一个新的和声。图26中展示了这种技法，以及他们可以得到的和弦。第一个例子展示了我们如何得到一个很好的min7b5，因为9音在我们的左手配置中是一个禁止音/避免9音和左手的音重复，所以这种变化十分有用。除了我们所演示的这些Voicing之外，还有许多其他的组合方法。作为抛砖引玉，请把我们的例子作为基础，来探索更多属于自己的Voicing吧。</p>
+<figure data-type="image" tabindex="11"><img src="https://kakuto.me/post-images/1584567019391.png" alt="" loading="lazy"></figure>
+<p>按照这个思路，让他们与左手Voicing相组合，可以让我们通过变换得到大调251的的双手和弦（图27）。这些Voicing提示一些了我们将在第三章讲解的四度和声内容。不过现在，和之前一样，在四度圈或者音阶下行中演奏他们的两种转位（第四页）。填充（添加音符）或者double（重复音符）都是练习的时候可以尝试的选项。</p>
+<figure data-type="image" tabindex="12"><img src="https://kakuto.me/post-images/1584567035161.png" alt="" loading="lazy"></figure>
+<h2 id="upper-structures-上部结构">Upper Structures 上部结构</h2>
+<p>现在来为属和弦寻找一些就像旋律小调的和弦一样有趣的双手Voicing。因为右手通常会演奏这些和弦扩展音或者变化音，所以他们也被叫做上部结构（Upper Structures）。这些和弦Voicing容易演奏而且很容易记忆，因为他们的左手仅有两个简单的三全音的音符构成。图28像我们展示了一些最常见的各种属七和弦的Voicing：</p>
+<figure data-type="image" tabindex="13"><img src="https://kakuto.me/post-images/1584567052193.png" alt="" loading="lazy"></figure>
+<p>第一个和弦是一个简单的7b9的Voicing，他右手弹奏的是比根音低小三度的大三和弦（也就是说，G7b9，根音是G，那右手就是G的向下小三度，弹E和弦），左手则弹3和7音。他常用于使用减音阶的大调的251中的五级和弦上。</p>
+<p>第二个是一个很好的变化Voicing（Alt和弦）：右手弹比根音低大三度的三和弦，左手弹3和7音。第三个和弦（距离根音三全音的三和弦）适合减音阶和alt音阶。而最后一个（比根音高大二度的三和弦）则是一个简单的7#11和弦</p>
+<p>这些和弦虽然长得很简单，但是他们听起来效果很好。当然，除了上面列出来的这些，我们还可以通过在3音和7音上面添加其他的大三和小三和弦来得到许多其他（突出变化的）和弦。在这里，我们鼓励读者可以多研究/参考其他的书上出现的同类内容，比如Mark Levine的《The Jazz Piano Book》。虽然我们在这里列出的都是是一些最普通的Voicing，但是他们非常适合作为你的双手Voicing词汇的起点。</p>
+<p>这些Voicing中的三和弦可以通过转位来让和弦获得更多的色彩，但是要注意第一个和弦中的双重3音/三度。这个Voicing当右手的3音/三度保持在和弦顶部（或者靠近和弦顶部）的时候听起来更好。关于这个和弦的另一个优点就是，他很适合减音阶，这个和弦的全部（或者至少在三和弦的部分）可以通过小三度的移调以进行变化（如图29a）。事实上，<strong>任何</strong>可以在减音阶中找到的和弦都可以使用于属七和小7和弦来构成（图29b）。减七和半减七和弦也可以这样做。</p>
+<figure data-type="image" tabindex="14"><img src="https://kakuto.me/post-images/1584567068116.png" alt="" loading="lazy"></figure>
+<p>有了我们在“So What”章节讲到的令人满意的II级和I级和弦，和构建V级和弦的Upper Structure方法，我们现在可以把他们放在一起来构建双手的大调251Voicing了。图30显示了一种II-Vb9-I的和弦进程编配。V级和弦还可以通过向上移动小三度的来构成一个新的Voicing。当练习这些Voicing的之后——包括两种V级和弦在内——您就可以在演出的时候随意在这两个和弦中进行随意切换，从而创造更多的运动和色彩（以及乐句）了。</p>
+<p>当然，也可以通过演奏右手三和弦的转位来获得更多色彩。</p>
+<p>我们这里提供了maj7和maj#4两个和弦的Voicing，他们能给你演奏提供更多的选择。在练习和弦进行的时候，先练习maj7，然后再练习maj7#4。和往常一样，在所有调上练习他们，直到你对他们信手拈来。</p>
+<figure data-type="image" tabindex="15"><img src="https://kakuto.me/post-images/1584567083663.png" alt="" loading="lazy"></figure>
+<p>现在轮到小调251了，虽然我们尚未讲到min7b5和弦，但是我们接触过自然的旋律小调音阶，所以我们可以找到一个适配的和弦。让我们再看一下图28的第二个Voicing（alt/变化和弦），它就来自于旋律小调。（在这个例子中）他是alt音阶，也就是Ab旋律小调的第七条音阶。旋律小调第六个调式是洛克利亚#2（Locrian natural 9），所以他的Voicing应该也适用于Fm7b5和弦。</p>
+<p>这里有一个构建和弦的简单方法：在左手演奏根音和b5音，然后右手演奏比根音<strong>低</strong>一个tone的大三和弦。</p>
+<p>图31清楚地介绍了相关内容。请注意，V级和弦有两种Voicing。第一种包含#5和#9,适用于alt音阶。第二种（我们在图28中的第三个和弦）适用于alt音阶和减音阶。这和图30中的大调251的V级和弦很像。练习这两种音阶可以让我们在伴奏和编曲的时候拥有更多的选择和色彩。</p>
+<p>因为Imin7在调子中比Im(maj7)←（小大七和弦）更常见,所以一级和弦我们就用“So What”和弦Voicing。然而，如果你需要小大七和弦或者Imin6和弦的话，则可以自行在“So What”和弦中进行调整。</p>
+<figure data-type="image" tabindex="16"><img src="https://kakuto.me/post-images/1584567106131.png" alt="" loading="lazy"></figure>
+<p>Upper Structures和弦也可以直接用八度重复的办法。图32就展示了II级和V级和弦的每一个三和弦中顶部音符八度重复的例子（为了突出m7b5中的11，alt属和弦中的#9）</p>
+<figure data-type="image" tabindex="17"><img src="https://kakuto.me/post-images/1584567120352.png" alt="" loading="lazy"></figure>
+<p>练习图31中的小调Voicing，熟悉每一个调并把他们放在曲子中进行熟悉。</p>
+<p>图33展示了标准曲“All The Things You Are”双手Voicing。这些Voicing只有“So What”和Upper Strucure的姓氏，十分适合练习。虽然在演出的时候你会可能会使用各种Voicing方法（包括你自创的），但在那之前，你应该先熟悉这些Voicing，知道他们变得浑然天成</p>
+<p>笔记：</p>
+<ul>
+<li>所有的V和弦都可以弹成b9和弦，虽然实际演出的时候不一定，但是在在线你必须熟悉他们——从b9到alt（#5，#9）之间来回切换</li>
+<li>第六小节展示了在图30中出现过的一组在b9和弦上的三和弦。</li>
+<li>第9,25,30和31小节是“So What”Voicing的第一转位</li>
+<li>14和22小节中的属和弦，右手弹了一个距离根音三全音的三和弦，这么做是为了突出#11音</li>
+<li>32小节的Bb7b9的Voicing可以作为Bdim7的替代和弦（参看第十页）。在这个小节演奏B7alt也是一个不错的替代选择。</li>
+<li>13小节（Abmaj7）和12小节（Ebmaj7）一样，在Ab上给了我们一个非常棒的#11</li>
+<li>观察10和26小节的min7的Voicing，你会发现他们和上一个小节和弦的Voicing只差了一个半音。这是“So What” Voicing一个非常有趣的特性——可以通过让一个音改变半音来让它在四度圈里变化（参看21页）</li>
+</ul>
+<p><img src="https://kakuto.me/post-images/1584567190651.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584567203659.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584567214919.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584567225747.png" alt="" loading="lazy"></p>
+<p>看一下图34，他展示了“So What”和弦上升四度的Voicing情况。随着和弦进行，转位下降。不仅如此，连续和弦的变化音符还会以半音上升——这个音符在新Voicing也会变得更高（比如从5音变成3音，从7音变成5音）。例如，Fm7的底部音符升高半音形成了Bbmin7.Bbmin7的第二个底部音符升高半音得到了Ebmin7.然后第三个音符的变化得到了Abmin7，以此类推。图35展示了Maj7的Voicing升高四度的同样操作。（这一段翻译不太准，建议配图观看，我也在想想怎么翻译比较好）</p>
+<p>在具有相同类型和弦按照四度圈弦运动的时候，“So What”的和弦Voicing的优势就会显而易见。例如在“All The Things You Are”的第1,2,9,10,25,26中的m7和弦。Voice leading变得非常强劲，而且和弦之间的运动也很小。一旦你演奏过图34和图35，你就会清楚的知道和弦之间改变了哪些音符。</p>
+<ul>
+<li>小7和弦升四度，改变的音符变成了新和弦的3音（从5音）</li>
+<li>大7和弦升四度，改变的音符变成了新和弦的5音（从7音）</li>
+<li>如果你不改变音符的话，那么这个maj7的和弦Voicing可以直接当做下一个四度的maj7#4和弦来用，就像图33的12~13小节那样（也可参看图36）</li>
+</ul>
+<p>按照这些序列演奏，但是也要试试按照图37中展示的那样升5th（在这个例子中，3音下降一个半音变成了新的小7和弦Voicing中的5音，5音下移变成了maj7和弦中的大7音）</p>
+<p><img src="https://kakuto.me/post-images/1584567243839.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584567254890.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584567265185.png" alt="" loading="lazy"><br>
+<img src="https://kakuto.me/post-images/1584567278191.png" alt="" loading="lazy"></p>
+<h3 id="practice练习-2">Practice（练习）</h3>
+<p>这里有一些练习，可以让你更加清楚它的应用：</p>
+<ul>
+<li>按照图34的内容那样进行练习，让他按照四度圈/五度圈五次直到再次回到根音位置Cm7.这样您会在每个调上演奏到每一个转位。确认在每次演奏的时候要说出正在演奏和弦的名字。这种“手指”练习可以帮助你内化or熟悉“So What”上的各种转位，从而为你最大限度地提供各种Voicing和色彩</li>
+<li>对图35的maj7做同样的练习</li>
+<li>找一首沿着四度圈有连续min7或者maj7和弦的曲子（比如“All The Things You Are”）。通常，在大多数标准曲中你找不到两个或者更多的连续和弦。在这些曲子下练习半音移动。对于有连续Maj7和弦的曲子，也可以像图36练习那样保持和声不变，让一个和弦形成一个maj7#4的声音</li>
+<li>如果再这一部分你还没有觉得烧脑的话，就按照上面的流程练习图37</li>
+</ul>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爵士和声配置——从入门到精通 （2）]]></title>
         <id>https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-2/</id>
