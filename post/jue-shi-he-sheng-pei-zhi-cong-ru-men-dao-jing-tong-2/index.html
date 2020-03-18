@@ -1,110 +1,160 @@
 <html>
 <head>
-    <meta charset="utf-8"/>
-<meta name="description" content=""/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta charset="utf-8" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
 <title>爵士和声配置——从入门到精通 （2） | 蜂蜜館の地下一階</title>
-<link rel="shortcut icon" href="https://kakuto.me/favicon.ico?v=1584566292123">
-<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
-<link rel="stylesheet" href="https://kakuto.me/styles/main.css">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://kakuto.me/favicon.ico?v=1584566678667">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel="stylesheet" href="https://kakuto.me/styles/main.css" type='text/css' media='all'>
 
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
-<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/go.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 <script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-        crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-        crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-        crossorigin="anonymous"></script>
-
-<!-- DEMO JS -->
-<script src="media/scripts/index.js"></script>
 
 
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+
 </head>
-<body>
-<div class="main gt-bg-theme-color-first">
-    <nav class="navbar navbar-expand-lg">
-    <div class="navbar-brand">
-        <img class="user-avatar" src="/images/avatar.png" alt="头像">
-        <div class="site-name gt-c-content-color-first">
-            蜂蜜館の地下一階
+<body class="home blog ct-body standard">
+<div id="overflow-container" class="overflow-container">
+  <a class="skip-content" href="#main">Skip to content</a>
+  <header id="site-header" class="site-header" role="banner">
+    <div class='top-navigation top-navigation-important'>
+        <div class='container'>
+            <div id="menu-secondary" class="menu-container menu-secondary" role="navigation">
+                <button id="toggle-secondary-navigation" class="toggle-secondary-navigation"><i class="fa fa-plus"></i></button>
+                <div class="menu">
+                    <ul id="menu-secondary-items" class="menu-secondary-items">
+                        
+                        
+                            
+                        <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
+                            <a href="https://kakuto.me/tag/6kDIRSIHa/">翻译</a>
+                        </li>
+                            
+                        
+                            
+                        <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
+                            <a href="https://kakuto.me/tag/kw0qSGT8Hr/">Jazz Piano</a>
+                        </li>
+                            
+                        
+                            
+                        <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
+                            <a href="https://kakuto.me/tag/ZK2U8GPdM/">COC跑团</a>
+                        </li>
+                            
+                        
+                            
+                        <li id="menu-item" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item">
+                            <a href="https://kakuto.me/tag/ELGCAKcTz/">Github</a>
+                        </li>
+                            
+                        
+                    </ul>
+                </div>
+            </div>
+            <ul class="social-media-icons">
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+            </ul>
         </div>
     </div>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <div class="navbar-nav mr-auto" style="text-align: center">
-            
-                <div class="nav-item">
+
+    <div class="container">
+        <div id="title-info" class="title-info">
+            <div id='site-title' class='site-title'>
+                <a href="/https://kakuto.me">  蜂蜜館の地下一階 </a>
+            </div>
+        </div>
+        <button id="toggle-navigation" class="toggle-navigation">
+            <i class="fa fa-bars"></i>
+        </button>
+        <div id="menu-primary-tracks" class="menu-primary-tracks"></div>
+        <div id="menu-primary" class="menu-container menu-primary" role="navigation">
+            <p class="site-description">何でもあり</p>
+            <div class="menu">
+                <ul id="menu-primary-items" class="menu-primary-items">
+                     
+                        
+                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
+                                <a href="/">首页</a>
+                            </li>
+                        
                     
-                        <a href="/" class="menu gt-a-link">
-                            首页
-                        </a>
+                        
+                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
+                                <a href="/archives">归档</a>
+                            </li>
+                        
                     
-                </div>
-            
-                <div class="nav-item">
+                        
+                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
+                                <a href="/tags">标签</a>
+                            </li>
+                        
                     
-                        <a href="/archives" class="menu gt-a-link">
-                            归档
-                        </a>
+                        
+                            <li id="menu-item" class='menu-item menu-item-type-post_type menu-item-object-page current-menu-item current_page_item'>
+                                <a href="/post/about">关于</a>
+                            </li>
+                        
                     
-                </div>
-            
-                <div class="nav-item">
-                    
-                        <a href="/tags" class="menu gt-a-link">
-                            标签
-                        </a>
-                    
-                </div>
-            
-                <div class="nav-item">
-                    
-                        <a href="/post/about" class="menu gt-a-link">
-                            关于
-                        </a>
-                    
-                </div>
-            
+                </ul>
+            </div>
         </div>
     </div>
-</nav>
-    <div class="post-container">
-        <div class="post-detail gt-bg-theme-color-second">
-            <article class="gt-post-content">
-                <h2 class="post-title">
-                    爵士和声配置——从入门到精通 （2）
-                </h2>
-                <div class="post-info">
-                    <time class="post-time gt-c-content-color-first">
-                        · 2020-03-19 ·
-                    </time>
-                    
-                        <a href="https://kakuto.me/tag/6kDIRSIHa/" class="post-tags">
-                            # 翻译
-                        </a>
-                    
-                        <a href="https://kakuto.me/tag/kw0qSGT8Hr/" class="post-tags">
-                            # Jazz Piano
-                        </a>
-                    
-                </div>
-                <div class="post-content">
-                    <h1 id="chapter-1basic-left-hand-voicings基础左手配置">Chapter 1：Basic Left-hand voicings（基础左手配置）</h1>
+
+
+</header>
+
+  <div id="main" class="main" role="main">
+    <div id="loop-container" class="loop-container">
+      <div class="post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-design tag-standard-2 tag-tagalicious tag-travel entry full-without-featured odd excerpt-1">
+        
+          <div class='featured-image lazy lazy-bg-image' data-background="https://i.ytimg.com/vi/WwDKN4_Rvsc/maxresdefault.jpg">
+          </div>
+        
+
+        <div class="entry-meta">
+          <span class="date">· 2020-03-19 ·</span> <span> / </span>
+          <span class="author">
+            <a href="https://kakuto.me" title="" rel="author"> Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a></a>
+          </span>
+          
+            <span class="category">
+                    <span> / </span>
+                    <a href="https://kakuto.me/tag/6kDIRSIHa/">翻译</a>
+                </span>
+          
+            <span class="category">
+                    <span> / </span>
+                    <a href="https://kakuto.me/tag/kw0qSGT8Hr/">Jazz Piano</a>
+                </span>
+          
+        </div>
+        <div class='entry-header'>
+          <h1 class='entry-title'>爵士和声配置——从入门到精通 （2）</h1>
+        </div>
+        <div class="entry-container">
+          <div class="entry-content">
+            <article>
+              <h1 id="chapter-1basic-left-hand-voicings基础左手配置">Chapter 1：Basic Left-hand voicings（基础左手配置）</h1>
 <h2 id="two-note-voicing-双音阶配置">Two-note Voicing （双音阶配置）</h2>
 <p>首先，只要我们知道一个和弦的3音和7音，我们就能确定一个和弦的基本性质了。例如，只需演奏Dm7的3音和7音（如图1），我们就可以确定它是一个小七和弦了。不过，这一切的前提，是我们需要有一个BASS手来演奏根音。</p>
 <p>当我们处理爵士和弦的时候，我们都可以假设我们已经有一个BASS手来帮我们处理根音了，这样做有两个好处</p>
@@ -281,47 +331,116 @@ Easy Living					Quiet Night Of Quiet Stars (Corcovado)<br>
 How Insensitive			 You Took Advantage Of Me1<br>
 I Remember Clifford</p>
 
-                </div>
             </article>
-        </div>
-
-        
-            <div class="next-post">
-                <div class="next gt-c-content-color-first">下一篇</div>
-                <a href="https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-1/" class="post-title gt-a-link">
-                    爵士和声配置——从入门到精通 （1）
-                </a>
+          </div>
+          <div class='entry-meta-bottom'>
+            <div class="entry-categories">
+              <p>
+                <span>Categories</span>
+                
+                  
+                    
+                  <a href="https://kakuto.me/tag/6kDIRSIHa/" title="View all posts in 翻译">翻译</a>
+                    
+                    
+                    
+                  <a href="https://kakuto.me/tag/kw0qSGT8Hr/" title="View all posts in Jazz Piano">Jazz Piano</a>
+                    
+                    
+                    
+                  <a href="https://kakuto.me/tag/ZK2U8GPdM/" title="View all posts in COC跑团">COC跑团</a>
+                    
+                    
+                    
+                  <a href="https://kakuto.me/tag/ELGCAKcTz/" title="View all posts in Github">Github</a>
+                    
+                    
+              </p>
             </div>
+            <div class="entry-tags">
+              <p><span>Tags</span>
+              </p>
+            </div>
+          </div>
+          <div class="author-meta">
+            <div class="author">
+              <img alt='' src="https://kakuto.me/images/avatar.png?v=1584566678667" class='avatar avatar-72 photo' height='72' width='72'>
+              <span>WRITTEN BY: &nbsp;&nbsp;&nbsp;<a href='https://kakuto.me'>角兎</a> </span>
+            </div>
+            <div class="bio">
+              <p></p>
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+            </div>
+          </div>
+        </div>
+          
+            <nav class="navigation pagination" role="navigation">
+              <h2 class="screen-reader-text">Posts navigation</h2>
+              <div class="nav-links">
+                <a class="next page-numbers" href="https://kakuto.me/post/jue-shi-he-sheng-pei-zhi-cong-ru-men-dao-jing-tong-1/">下一篇->爵士和声配置——从入门到精通 （1）</a>
+              </div>
+            </nav>
+          
+      </div>
+      <section id="comments" class="comments">
         
-
-        
-
-        <div class="site-footer gt-c-content-color-first">
-    <div class="slogan gt-c-content-color-first">何でもあり</div>
-    <div class="social-container">
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
-            
-        
+      </section>
     </div>
-    Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a href="https://kakuto.me/atom.xml" target="_blank">RSS</a>
-</div>
+  </div>
 
+  <footer id="site-footer" class="site-footer" role="contentinfo">
+    <h1>
+        <a href="https://kakuto.me"> 蜂蜜館の地下一階 </a>
+    </h1>
+    <p class="site-description">何でもあり</p>
+    <div id="menu-footer" class="menu-container menu-footer" role="navigation">
+        <div class="menu">
+            <ul id="menu-footer-items" class="menu-footer-items">
+            </ul>
+        </div>
+    </div>
+    <ul class="social-media-icons">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </ul>
+    <div class="design-credit">
+        <p>Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a></p>
+    </div>
+</footer>
 <script>
     hljs.initHighlightingOnLoad()
 </script>
-
-
-    </div>
+<script src="https://kakuto.me/media/scripts/lib/jquery.min.js"></script>
+<script src="https://kakuto.me/media/scripts/lib/jquerymigrate.js"></script>
+<script src="https://kakuto.me/media/scripts/lib/production.min.js"></script>
 </div>
 </body>
 </html>
+
